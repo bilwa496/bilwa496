@@ -2,7 +2,7 @@
 
 ### Hi there 👋 Bilwa here
 
-#### I am Bilwasiva, alias Tintin, a first year Computer Science Master's student.
+#### I am Bilwasiva, alias Tintin, a final year Computer Science Master's student.
 ##### [BE EEE + ME CS] @[BITS Pilani](https://www.bits-pilani.ac.in/)
 
 <br/>
